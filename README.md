@@ -54,11 +54,12 @@ The dataset includes newborn health records with the following key columns (fiel
 
 ### 2. **Correlation Analysis**
 - Investigated relationships between **jaundice levels** and **oxygen saturation**:
-  3. Immunization vs. Risk Level
+  
+  ### 3. Immunization vs. Risk Level
 
 Visualized the relationship between immunization completion and risk level:
 
-4. Weight Tracking
+### 4. Weight Tracking
 
 Monitored growth trajectories for individual newborns:
 
@@ -72,24 +73,7 @@ Weight progression over the first days shows strong predictive value for early d
 
 ⚙️ Installation & Usage
 1. Clone the Repository
-git clone https://github.com/<your-username>/newborn-health-analysis.git
-cd newborn-health-analysis
-
-2. Create a Virtual Environment (optional)
-python -m venv venv
-source venv/bin/activate   # (Linux/Mac)
-venv\Scripts\activate      # (Windows)
-
-3. Install Dependencies
-pip install -r requirements.txt
-
-
-If no requirements.txt exists, install manually:
-
-pip install pandas numpy matplotlib seaborn jupyter
-
-4. Launch the Notebook
-jupyter notebook "Newborn Health Monitoring Analysis.ipynb"
+git clone https://github.com/Jk-mwaniki/newborn-health-analysis.git
 
 🚀 Results & Conclusions
 
