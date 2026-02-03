@@ -98,8 +98,3 @@ pandas, numpy
 matplotlib, seaborn
 
 Jupyter Notebook
-
-👩‍💻 Author
-
-John Mwaniki
-Data Analytics Enthusiast
