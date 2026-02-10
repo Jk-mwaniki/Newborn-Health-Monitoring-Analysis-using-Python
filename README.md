@@ -70,13 +70,6 @@ Incomplete immunizations are often associated with higher health risk classifica
 
 Weight progression over the first days shows strong predictive value for early development status.
 
-⚙️ Installation & Usage
-1. Clone the Repository
-git clone https://github.com/Jk-mwaniki/newborn-health-analysis.git
-
-2. Launch the Notebook
-jupyter notebook "Newborn Health Monitoring Analysis.ipynb"
-
 🚀 Results & Conclusions
 
 The notebook provides:
